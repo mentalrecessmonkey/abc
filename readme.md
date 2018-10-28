@@ -1,3 +1,5 @@
+This Repo is to Learn some basic Markup text and also how github webpage works
+
 # Sean Kross
 
 ### Geography
